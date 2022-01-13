@@ -11,7 +11,6 @@ https://analyse.kmi.open.ac.uk/open_dataset
 It contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by “B” and “J” respectively. The dataset consists of tables connected using unique identifiers. All tables are stored in the csv format.
 
 ***Tables:***
-
 - courses
 - assessments
 - vle
