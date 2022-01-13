@@ -70,8 +70,8 @@ Select all students from the studentInfo table who live in a region that has a n
 
 ** The average number of times a students interacts with the material in region contains "u" are between 3.59 and 3.78
 
-Step 8.
-Using whichever visualization software you are most comfortable with, please visualize the pattern you identified in the data and save the image.
+
+***Visualization - Tableau
 
 Step 9.
 Write a short explanation of the pattern you found and why you chose to visualize it the way you did.
