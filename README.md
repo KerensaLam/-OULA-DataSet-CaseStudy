@@ -75,7 +75,11 @@ Select all students from the studentInfo table who live in a region that has a n
 
 ![image](https://user-images.githubusercontent.com/83144665/149407182-aebe4b1a-e191-4357-8522-2366ce4e78f4.png)
 
-Tableau Public Link:https://public.tableau.com/app/profile/shuk.man.lam3958/viz/OpenUniversityLearningAnalyticsdatasetAnalysis/OpenUniversityLearningAnalyticsDatasetAnalysis
-Please see the Explanation.md file for details of each visual.
+Tableau Public Link:
 
+https://public.tableau.com/app/profile/shuk.man.lam3958/viz/OpenUniversityLearningAnalyticsdatasetAnalysis/OpenUniversityLearningAnalyticsDatasetAnalysis
+
+Please see the ***Explanation.md*** file for details of each visual.
+
+Thank you!
 
