@@ -1,11 +1,13 @@
 # OULA-DataSet-CaseStudy
-###DFI Data Analyst Task
+### DFI Data Analyst Task###
 
 ***Data Source:***
+
 Open University Learning Analytics dataset (OULAD)
 https://analyse.kmi.open.ac.uk/open_dataset
 
 ***Data Description:***
+
 It contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by “B” and “J” respectively. The dataset consists of tables connected using unique identifiers. All tables are stored in the csv format.
 
 ***Tables:***
@@ -18,10 +20,10 @@ It contains data about courses, students and their interactions with Virtual Lea
 -studentVle
 
 ***Screenshot of Intersurface (Any two tables)***
-Table 01:
+:star:Table 01:
 ![Table01-studentVle](https://user-images.githubusercontent.com/83144665/149256358-2ceeef46-aae7-4122-aa2b-d000e4c67516.png)
 
-Table 02:
+:star:Table 02:
 ![Table02-studentInfo](https://user-images.githubusercontent.com/83144665/149256386-5ac3decc-7874-4f31-99a4-89446447bb9d.png)
 
 
