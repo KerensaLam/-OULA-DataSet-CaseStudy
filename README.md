@@ -48,8 +48,25 @@ Select all students from the studentInfo table who live in a region that has a n
 
 ** Because of limited space, only first 14 results are shown. 
 
-Step 7.
-Using any varibles from any table look for a pattern that you think is interesting. Please show any code you utilize to investigate the tables.
+***Any investigation***
+
+- 7.1 Find the number of withdrawn registration per region
+
+![image](https://user-images.githubusercontent.com/83144665/149400534-d72725b5-eb7a-4888-9ba1-cf31b6ce1b44.png)
+
+** London Region is the region has the highest student withdrawn from registration
+
+- 7.2 Find the number of students passing different assessments type in different semester
+
+![image](https://user-images.githubusercontent.com/83144665/149400895-8f10949d-f5a5-41f2-91b0-d20bb4bd738f.png)
+
+** CMA assessment has the highest number of students passed the assessment among all the presentation
+
+- 7.3 Find the average number of times a students interacts with the material in region contains "u"
+
+![image](https://user-images.githubusercontent.com/83144665/149401239-72b1adce-3f15-4056-9820-8596b10e3d5e.png)
+
+** The average number of times a students interacts with the material in region contains "u" are between 3.59 and 3.78
 
 Step 8.
 Using whichever visualization software you are most comfortable with, please visualize the pattern you identified in the data and save the image.
