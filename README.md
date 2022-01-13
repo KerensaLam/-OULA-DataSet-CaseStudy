@@ -71,7 +71,7 @@ Select all students from the studentInfo table who live in a region that has a n
 ** The average number of times a students interacts with the material in region contains "u" are between 3.59 and 3.78
 
 
-***Visualization - Tableau
+***Visualization - Tableau***
 
 ![image](https://user-images.githubusercontent.com/83144665/149407182-aebe4b1a-e191-4357-8522-2366ce4e78f4.png)
 
