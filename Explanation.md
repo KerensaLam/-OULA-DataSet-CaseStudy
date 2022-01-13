@@ -13,6 +13,7 @@ This visual illustrates the student registerted across 2013B, 2013J, 2014B, 2014
 ![image](https://user-images.githubusercontent.com/83144665/149416613-2788d1fd-77ac-4dd9-bbda-0dba1eeabb1d.png)
 
 - Visual: Stacked Bar Chart
+
 This visual illustrates the distribution of students registered in education level, age band, and also whether or not a disability. It clearly shows that most of the student registered are not disability and at age 0-35 range. The highest education background the students have are A level or Equivatlent, and  lower than A level. No student with a disability at age >=55 range. Also, the proportion of female and male students are half and half.
 
 
@@ -22,6 +23,7 @@ This visual illustrates the distribution of students registered in education lev
 ![image](https://user-images.githubusercontent.com/83144665/149418224-b6cdfa3c-1efc-44d1-ad9d-a5ac4569c638.png)
 
 - Visual: Heat Map
+
 This visual illustruates the distribution of students registered in different region and module. Darker color means more student in that region and module, lighter colors means the fewer. From geographical perspective, Ireland has the fewer students registered. From module perspective, BBB, DDD, and FFF has the most students registered while AAA has the least. According to the first bar chart, it could be reason why AAA module only open in 2013J and 2014J while BBB, DDD and FFF open in all presentaion. 
 
 
