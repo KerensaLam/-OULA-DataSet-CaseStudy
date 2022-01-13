@@ -75,10 +75,7 @@ Select all students from the studentInfo table who live in a region that has a n
 
 ![image](https://user-images.githubusercontent.com/83144665/149407182-aebe4b1a-e191-4357-8522-2366ce4e78f4.png)
 
-Step 9.
-Write a short explanation of the pattern you found and why you chose to visualize it the way you did.
+Tableau Public Link:https://public.tableau.com/app/profile/shuk.man.lam3958/viz/OpenUniversityLearningAnalyticsdatasetAnalysis/OpenUniversityLearningAnalyticsDatasetAnalysis
+Please see the Explanation.md file for details of each visual.
 
-Step 10.
-Ensure that you have forked and cloned this repository. Upload your screenshot from step 3, your image from step 8, a text file including your explanation and a text file including all your SQL code. Please then pull request your work back to the main branch.
 
-Good luck!
