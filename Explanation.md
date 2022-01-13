@@ -30,6 +30,6 @@ This visual illustruates the distribution of students registered in different re
 
 ![image](https://user-images.githubusercontent.com/83144665/149419569-9e9a42a7-6c77-4325-b988-26da7060face.png)
 
--Visual: Packed Bubbles
+- Visual: Packed Bubbles
 
 This Visuals simply represents the registration result in terms of the szie of the bubbles. Larger bubbles, more students fall into that category. We could see that the majority pass their registration, at the same time, a lot pf student withdrawn even before they start the presentation and assessment. WE need to find out the reason why student withdrawn from the registration and use different strategy to attract student to continue on the registration process.
