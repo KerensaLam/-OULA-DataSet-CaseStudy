@@ -72,6 +72,7 @@ Select all students from the studentInfo table who live in a region that has a n
 
 
 ***Visualization - Tableau
+![image](https://user-images.githubusercontent.com/83144665/149407182-aebe4b1a-e191-4357-8522-2366ce4e78f4.png)
 
 Step 9.
 Write a short explanation of the pattern you found and why you chose to visualize it the way you did.
