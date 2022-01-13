@@ -30,8 +30,7 @@ It contains data about courses, students and their interactions with Virtual Lea
 ![Table02-studentInfo](https://user-images.githubusercontent.com/83144665/149256386-5ac3decc-7874-4f31-99a4-89446447bb9d.png)
 
 
-Step 4.
-Review the codebook and database diagram on the OULA webpage. Using SQL join the studentAssessment and studentInfo tables by the id_student variable.
+***Using SQL join the studentAssessment and studentInfo tables by the id_student variable.***
 
 Step 5.
 Using your new table and SQL create a summary of the mean score, summarized according to region.
