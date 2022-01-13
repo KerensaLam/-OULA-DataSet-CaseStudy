@@ -1,19 +1,29 @@
-# -OULA-DataSet-CaseStudy
-DFI Data Analyst Task
-Please complete the following tasks over a three day period. You will need:
+# OULA-DataSet-CaseStudy
+###DFI Data Analyst Task
 
-A Github account
-Either an Amazon Web Services account or a local version of a SQL database manager such as
-Step 1.
-- [x] Download the OULA data set from here: https://analyse.kmi.open.ac.uk/open_dataset
+***Data Source:***
+Open University Learning Analytics dataset (OULAD)
+https://analyse.kmi.open.ac.uk/open_dataset
 
-Step 2.
-Either:
-a) Within AWS, create an instance with a SQL database that you can interface with using SQL code or
-b) On your local machine create a SQL datase that you can interface with using SQL code
+***Data Description:***
+It contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by “B” and “J” respectively. The dataset consists of tables connected using unique identifiers. All tables are stored in the csv format.
 
-Step 3.
-Populate your database with OULA data so that each .csv file is a different table. Take a screenshot of your interface once you have completed this task to show your two tables.
+***Tables:***
+-courses
+-assessments
+-vle
+-studentInfo
+-studentRegistration
+-studentAssessment
+-studentVle
+
+***Screenshot of Intersurface (Any two tables)***
+Table 01:
+![Table01-studentVle](https://user-images.githubusercontent.com/83144665/149256358-2ceeef46-aae7-4122-aa2b-d000e4c67516.png)
+
+Table 02:
+![Table02-studentInfo](https://user-images.githubusercontent.com/83144665/149256386-5ac3decc-7874-4f31-99a4-89446447bb9d.png)
+
 
 Step 4.
 Review the codebook and database diagram on the OULA webpage. Using SQL join the studentAssessment and studentInfo tables by the id_student variable.
