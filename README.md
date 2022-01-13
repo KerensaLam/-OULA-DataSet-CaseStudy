@@ -29,14 +29,20 @@ It contains data about courses, students and their interactions with Virtual Lea
 
 ![Table02-studentInfo](https://user-images.githubusercontent.com/83144665/149256386-5ac3decc-7874-4f31-99a4-89446447bb9d.png)
 
+***SQL***
 
-***Using SQL join the studentAssessment and studentInfo tables by the id_student variable.***
+- Step 4 & Step 5
+Using SQL join the studentAssessment and studentInfo tables by the id_student variable.
+Create a summary of the mean score, summarized according to region.
 
-Step 5.
-Using your new table and SQL create a summary of the mean score, summarized according to region.
+![SQL step 4 5](https://user-images.githubusercontent.com/83144665/149257940-ef8479a1-1f55-445c-a362-f5b33da67277.png)
+** Because of limited space, only first 12 results are shown. 
 
-Step 6.
-Please implement SQL code to select all students from the studentInfo table who live in a region that has a name where the letter 'c' is the second letter
+- Step 6
+Select all students from the studentInfo table who live in a region that has a name where the letter 'c' is the second letter
+
+![SQL step 6](https://user-images.githubusercontent.com/83144665/149258174-831422f8-3392-4a8f-b57b-a7f34f12c4be.png)
+** Because of limited space, only first 14 results are shown. 
 
 Step 7.
 Using any varibles from any table look for a pattern that you think is interesting. Please show any code you utilize to investigate the tables.
