@@ -56,11 +56,13 @@ Select all students from the studentInfo table who live in a region that has a n
 
 ** London Region is the region has the highest student withdrawn from registration
 
+
 - 7.2 Find the number of students passing different assessments type in different semester
 
 ![image](https://user-images.githubusercontent.com/83144665/149400895-8f10949d-f5a5-41f2-91b0-d20bb4bd738f.png)
 
 ** CMA assessment has the highest number of students passed the assessment among all the presentation
+
 
 - 7.3 Find the average number of times a students interacts with the material in region contains "u"
 
