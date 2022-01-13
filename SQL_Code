@@ -18,3 +18,34 @@ FROM `teacherscollege-casestudy.OULA_dataset.studentInfo`
 WHERE region LIKE "_c%";
 
 #Step 7 - Any interesting investigation
+
+#7.1 Find the number of withdrawn registration per region
+
+select region,
+COUNT(final_result) as Number_of_Withdrawn,
+FROM `teacherscollege-casestudy.OULA_dataset.studentInfo`
+WHERE final_result = "Withdrawn"
+GROUP BY region
+ORDER BY Number_of_Withdrawn DESC; 
+
+
+#7.2 Find the number of students passing different assessments type in different semester
+ 
+SELECT b.code_presentation,
+b.assessment_type,
+COUNT(a.score) AS pass,
+FROM `teacherscollege-casestudy.OULA_dataset.studentAssessment` a
+JOIN `teacherscollege-casestudy.OULA_dataset.assessments` b
+ON a.id_assessment = b.id_assessment
+WHERE a.score >= 40
+GROUP BY b.code_presentation, b.assessment_type
+ORDER BY b.code_presentation, pass DESC;
+
+#7.3 Find the average number of times a students interacts with the material in region contains "u"
+SELECT a.code_presentation,
+ROUND(AVG(sum_click),2) as Average_SumClick
+FROM `teacherscollege-casestudy.OULA_dataset.studentVle` a
+JOIN `teacherscollege-casestudy.OULA_dataset.studentInfo` b
+ON a.id_student = b.id_student
+WHERE b.region LIKE "U%"
+GROUP BY a.code_presentation;
