@@ -1,0 +1,20 @@
+#Step 4 & Step 5
+#Using SQL join the studentAssessment and studentInfo tables by the id_student variable.
+#Create a summary of the mean score, summarized according to region.
+
+SELECT b.region,
+ROUND(AVG(a.score),2) as mean_score
+FROM `teacherscollege-casestudy.OULA_dataset.studentAssessment` a
+JOIN `teacherscollege-casestudy.OULA_dataset.studentInfo` b
+ON a.id_student = b.id_student
+GROUP BY b.region;
+
+
+#Step 6
+#Select all students from the studentInfo table who live in a region that has a name where the letter 'c' is the second letter
+
+SELECT *
+FROM `teacherscollege-casestudy.OULA_dataset.studentInfo`
+WHERE region LIKE "_c%";
+
+#Step 7 - Any interesting investigation
